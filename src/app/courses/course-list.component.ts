@@ -17,7 +17,7 @@ export class CourseListComponent implements OnInit{
                 price: 99.99,
                 code: "XPS-8796",
                 duration: 120,
-                rating: 5.4,
+                rating: 4,
                 releaseDate: "November, 15, 2021",
                 description: "Curso de Angular FORMS"
             },
@@ -28,7 +28,7 @@ export class CourseListComponent implements OnInit{
                 price: 45.99,
                 code: "LKL-1094",
                 duration: 80,
-                rating: 5.5,
+                rating: 3,
                 releaseDate: "November, 4, 2020",
                 description: "Curso de Angular HTTP"
                 
