@@ -32,6 +32,18 @@ export class CourseListComponent implements OnInit{
                 releaseDate: "November, 4, 2020",
                 description: "Curso de Angular HTTP"
                 
+            },
+            {
+                id: 3,
+                name: "Angular: CLI",
+                imageUrl: "/assets/images/cli.png",
+                price: 45.99,
+                code: "LKL-1094",
+                duration: 80,
+                rating: 3,
+                releaseDate: "November, 4, 2020",
+                description: "Curso de Angular HTTP"
+                
             }
         ]
     }
